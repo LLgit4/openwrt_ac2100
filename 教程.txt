@@ -1,0 +1,2 @@
+//修改.config文件
+//点击Actions页面--选择Build OpenWrt--点击Run Workflow开始编译
